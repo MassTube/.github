@@ -59,8 +59,8 @@ MassTube is a simple and efficient video downloader designed to help users quick
 
 ### 🖼 Preview
 
-![Screenshot1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjQX4_6g4qhqerVaG3FAQt3mMlVDo0eAdtA&s)  
-![Screenshot2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-FI6zE-T55zp4IT9UvBov2rZ3t03zbbISYw&s)
+![Screenshot1](https://imag.malavida.com/mvimgbig/download-fs/masstube-4391-4.jpg)  
+![Screenshot2](https://imag.malavida.com/mvimgbig/download-fs/masstube-4391-2.jpg)
 
 ---
 
